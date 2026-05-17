@@ -1,16 +1,57 @@
-# React + Vite
+# unfinished.zip
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> still loading. probably always will be.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+a personal portfolio that looks like my brain at 2am —
+sticky notes everywhere, a playlist running, and too many ideas not enough ram.
 
-## React Compiler
+built it because i needed a portfolio but ended up making something weird instead. no regrets.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+live site → coming soon
+repo → [github.com/noct-mourning/unfinished.zip](https://github.com/noct-mourning/unfinished.zip)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## what's in here
+
+- rotating mood card that judges my current vibe
+- projects section with the stuff i actually shipped (and the stuff i didn't)
+- scattered sticky notes / random thoughts
+- spotify embed because music is carrying me
+- polaroid sketches gallery (placeholder for now. lazy.)
+- retro navbar that turns into a hamburger on mobile
+- grid + grain background because it looked cool
+
+---
+
+## stack
+
+react • vite • plain css • google fonts • spotify embed
+
+no fancy libraries. just vibes and box-shadow: 8px 8px 0 black.
+
+---
+
+## run it locally
+
+```bash
+git clone https://github.com/noct-mourning/unfinished.zip.git
+cd unfinished.zip
+npm install
+npm run dev
+```
+
+---
+
+## todo (motivation pending... 2%)
+
+- [ ] add actual sketches
+- [ ] dark mode (started, gave up, will retry)
+- [ ] more projects
+- [ ] finish it
+
+---
+
+*currently learning and experimenting. one unfinished project at a time.*
