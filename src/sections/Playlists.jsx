@@ -11,11 +11,12 @@ export default function Playlists() {
         </div>
         <div className="window-body">
         <iframe
-        src="https://open.spotify.com/artist/7gxV0ojcuBqOQfsjsxQJW6"
+        src="https://open.spotify.com/embed/artist/7gxV0ojcuBqOQfsjsxQJW6"
         width="100%"
         height="152"
         frameBorder="0"
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        allowFullScreen
         style={{ border: "none" }}
         />
         </div>
