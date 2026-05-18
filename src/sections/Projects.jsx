@@ -19,7 +19,7 @@ export default function Projects() {
             desc: "A bold neo-brutalist React interface that explores interactive state management through a counter system and live user input.",
             status: "shipped",
             bg: "#fde8ff",
-            link: "message-meter.netlify.app/",
+            link: "https://message-meter.netlify.app/",
         },
     ];  // 👈 this was missing
 
