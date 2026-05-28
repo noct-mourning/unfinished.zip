@@ -21,14 +21,14 @@ export default function Projects() {
             bg: "#fde8ff",
             link: "https://message-meter.netlify.app/",
         },
-    ];  // 👈 this was missing
+    ];
 
     return (
         <section className="section" id="projects">
         <div className="section-label">// projects/ (some finished, most aren't)</div>
         <div className="projects-grid">
         {projects.map((project, index) => (
-            <a  // 👈 this was missing
+            <a
             href={project.link}
             target="_blank"
             rel="noopener noreferrer"
