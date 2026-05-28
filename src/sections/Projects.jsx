@@ -10,16 +10,23 @@ export default function Projects() {
         {
             title: "Multi-Page App",
             desc: "A simple navigation app that doesn't require reloading the browser when navigating between pages",
-            status: "wip",
+            status: "wip (trying to add mobile responsiveness to it)",
             bg: "white",
             link: "https://react-multi-page-app.netlify.app/",
         },
         {
             title: "Message-meter App",
             desc: "A bold neo-brutalist React interface that explores interactive state management through a counter system and live user input.",
-            status: "shipped",
+            status: "wip (also trying to add mobile responsiveness to it)",
             bg: "#fde8ff",
             link: "https://message-meter.netlify.app/",
+        },
+        {
+            title: "Form-function-users",
+            desc: "A Bahaus-inspired React app that just shows some users data that came from an API.",
+            status: "wip(forgot to add loading, the same goes for the other projects but yeah...)",
+            bg: "#fde8ff",
+            link: "https://bahaus-users.netlify.app/",
         },
     ];
 
